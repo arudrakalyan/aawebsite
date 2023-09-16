@@ -1,0 +1,93 @@
+body {
+  font-family: "Mooli", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "Playfair Display", serif;
+  margin-bottom: 0;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 2.5rem;
+  line-height: 3rem;
+}
+
+p {
+  line-height: 36px;
+  margin-top: 20px;
+}
+
+.mt-10 {
+  margin-top: 100px;
+}
+
+.btn-outline-primary {
+  color: #000000;
+  border-color: #000000;
+}
+
+.btn-outline-primary:hover {
+  background-color: #000000;
+  color: #ffffff;
+  border-color: #000000;
+}
+
+.why-section {
+  margin-top: -100px;
+  position: relative;
+  padding: 100px 0;
+}
+
+.why-section p {
+  line-height: 28px;
+}
+
+.each-why {
+  padding: 50px 30px;
+  border: 1px solid #333333;
+}
+
+.each-why:hover {
+  background-color: #333333;
+}
+
+.each-why h4 {
+  font-size: 1.2rem;
+  letter-spacing: 1px;
+  line-height: 2rem;
+}
+
+.slider-section {
+  position: relative;
+  padding: 10px 0;
+}
+
+.slick-list {
+  margin: 0 -5px;
+}
+.slick-slide > img {
+  padding: 0 5px;
+}
+
+.promise {
+  position: relative;
+  padding: 100px 0;
+}
+.our-promise {
+  padding: 100px 30px;
+}
+
+footer {
+  padding: 50px 0;
+  background-color: #000000;
+  color: #ffffff;
+  text-align: center;
+}
